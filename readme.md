@@ -8,7 +8,7 @@
 
 [项目愿景](https://system-design2019.github.io/files/Vision)
 
-[产品特性](https://system-design2019.github.io/files/Product_backlog)
+[产品特性](https://system-design2019.github.io/files/Product_Backlog)
 
 [会议记录](https://system-design2019.github.io/files/Meeting_record)
 
