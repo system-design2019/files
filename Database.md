@@ -5,6 +5,7 @@
 ---|---|---
 邮箱或手机 | 不为null 
 用户id | 不为null 
+密码 | 不为null
 学号 | 不为null 
 姓名 | 不为null 
 年级专业 | 不为null 
