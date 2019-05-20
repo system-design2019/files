@@ -25,3 +25,21 @@ T.I.M主要支持用户任务的发布与接收行为，其中，任务类型主
 ## Iteration
 
 ## UI prototype
+
+问卷页面设计
+
+![questionnaire](./pic/ques.png)
+
+跑腿页面设计
+
+![questionnaire](./pic/run.png)
+
+通知页面设计
+
+![questionnaire](./pic/alert.png)
+
+个人页面设计
+
+![questionnaire](./pic/personal.png)
+
+详见[UI设计]()
