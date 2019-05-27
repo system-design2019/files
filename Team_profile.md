@@ -11,11 +11,11 @@
 
 学号 | 姓名 | Github | 岗位角色
 ---|---|---|---
-宋晓彤 | 16340192 | SongXiaotong |产品设计师
-王嘉楠 | 16340214 | wjnowen |产品设计师
-孙鹤鸣 | 16340197 | sunheming123 |产品设计师
-邵星语 | 16340188 | moko-momo |UI设计师
-叶梓豪 | 16340277 | yezo13 |前端开发
-蘇依晴 | 16340196 | RazerSou |前端开发
-王建 | 16340215 | JankingWon |后端开发
-郑超强 | 15331419 | wushangjing |后端开发
+16340192 | 红彤彤 | SongXiaotong |产品设计师
+16340214 | 幻 | wjnowen |产品设计师
+16340197 | 鹤鸣 | sunheming123 |产品设计师
+16340188 | 莫子 | moko-momo |UI设计师
+16340277 | YeZO | yezo13 |前端开发
+16340196 | zoe | RazerSou |前端开发
+16340215 | Janking | JankingWon |后端开发
+15331419 | 超强 | wushangjing |后端开发
