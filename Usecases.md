@@ -6,9 +6,9 @@ Time is Money平台在总体上可以分为6个结构：注册/登录、首页�
 
 #### 信息管理
 
-（1）[注册](https://system-design2019.github.io/files/usecase1-1)：用户使用邮箱或手机号进行注册，同时需要填写验证码
+（1）[注册](https://system-design2019.github.io/files/uml/usecase1-1)：用户使用邮箱或手机号进行注册，同时需要填写验证码
 
-（2）[登录](https://system-design2019.github.io/files/usecase1-2)：用户使用注册的邮箱/手机号进行登录，同时需要填写验证码
+（2）[登录](https://system-design2019.github.io/files/uml/usecase1-2)：用户使用注册的邮箱/手机号进行登录，同时需要填写验证码
 
 #### 任务发布
 
