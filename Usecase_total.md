@@ -1,6 +1,6 @@
 ## Usecase Diagram
 
-下图为Time is Money挣闲钱平台系统用例图一览，其中，子用例图及其活动图见[6.2 Use Cases](https://system-design2019.github.io/files/Usecase)
+下图为Time is Money挣闲钱平台系统用例图一览，其中，子用例图及其活动图见[6.2 Use Cases](https://system-design2019.github.io/files/Usecases)
 
 Time is money的用例主要包括注册/登录、首页操作、发布任务、接受任务、收藏任务，以及通知操作，其中不同的用例所关联的用例也不相同，下图对此做出了总体的说明。
 
