@@ -44,13 +44,11 @@ Time is Money平台在总体上可以分为6个结构：注册/登录、首页�
 
 #### 收益相关
 
-（1）虚拟币充值
-
-（2）虚拟币提现
+（1）[虚拟币](https://system-design2019.github.io/files/uml/usecase2-7)：M币为平台发布任务使用的虚拟代币，1元/枚，支持用户的充值与提现
 
 #### 其他
 
-（1）通知系统
+（1）[通知系统](https://system-design2019.github.io/files/uml/usecase2-8)：支持用户接受通知、发送通知、删除通知、以及标为已读/未读等操作
 
 
 
