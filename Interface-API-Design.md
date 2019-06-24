@@ -25,3 +25,16 @@
 
 [详细文档地址](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest#ee6844e6-30c6-4637-a01d-c49eef6117fe)
 
+本来可以通过 api.timoney.xyz 轻轻松松访问的
+
+因为国外买的域名（本来图不用备案）最后还是被某讯云发现了，于是只能用服务器ip加端口访问
+
+其实还是有注意点的，主要是有个上传图片（用于保存用户头像）的`api`需要把文件保存在服务器上，所以不要把图片类型的请求给拦截到，关键配置如下
+
+    location ~ .*\.(gif|jpg|jpeg|png|bmp|swf)$
+    {
+        expires      30d;
+        error_log off;
+        access_log off;
+    }
+另外就是要把网站设置为默认网站，因为要通过ip访问上传的头像，一个服务器有多个网站，不设置默认网站就无法找到正确的路径

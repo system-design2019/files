@@ -1,5 +1,16 @@
+## 技术资源
 
+- 技术栈
 
+  **Java 1.8.0 + Spring Boot + MySQL5.5 + MyBatis**
+
+- 开发环境
+
+  **IntelliJ Idea + Java 1.8.0 + Spring Boot + MySQL5.5(服务器上)** 
+
+-   部署环境
+
+  **Java 1.8.0 + MySQL5.5+ Tomcat(9.0)(内嵌)**
 ## 项目结构
 
 ```
@@ -95,14 +106,16 @@
     │      questionnaireMapper.xml
     │      userMapper.xml
     │      
-    ├─privateKey
+    ├─privateKey	//阿里云短信推送和邮件推送的私钥，不放在git里
     │      EmailKey.txt
     │      SMSKey.txt
     │      
-    └─static
+    └─static	//邮件推送的模板
             mail_forget_password_template.html
             mail_recharge_confirm.html
             mail_register_template.html
             mail_withdraw_confirm.html
 ```
+
+## 重难点
 
