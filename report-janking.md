@@ -6,7 +6,8 @@
 
 > 其实我们这个项目还是挺庞大的（设想很庞大，事实不堪)，而且根据随便一篇CSDN博客旁边的广告都有Java的文章来看Java开发遇到的坑还是蛮多的，如果贸然用Go或者Node.js可能语法都要学好久，加上在大三这个本应该找实习的年纪有了整个大学学期最多的课的时代背景下，实在不现实。更何况，要是用Java写个像样的后端，给凉凉的秋招也增添了一丝暖意，作为一个奋不顾身想投入996企业怀抱的当代青年，Python，Node等小站技术在互联网上占据的席位可谓少之又少，牛客网上的人才们也都是一边敲着`System.out.println`，一边说着好听的话......
 
-（以上并非本人真实想法）
+> （以上并非本人真实想法）
+>
 
 那是2019年3月21日的一个晚上，我抑制不住了自己的欲望，在互联网上开始寻求有用的资源，我打开了一个个网页，走马观花一遍并没有觉得刺激到我，一连看了几十个大小网站，始终没有找到那种让我欲罢不能的感觉，终于，在某个大型~~广告~~网站上找到了一个看了之后自己的手就停不下来的资源，果然还是某些打开就是形形色色广告的网站靠谱。
 
@@ -164,7 +165,7 @@
 
     **服务器**会查找数据库中该`id`的用户，首先看看提现金额够不够，然后看下有没有填微信或者支付宝账号（至少要填一个），确认可以提现之后，然后发送邮件给管理员，管理员去看看有没有收到邮件描述的收账情况，如果有就手动转账给邮件提供的支付宝或者微信账号（微信本身不支持匿名转账，但是我们做了），在管理员公平、负责的情况下，此时对方应该收到钱了，然后点击我已转账，该用户的记录里的`status`也会变为`true`，然后它的闲钱币就会扣除
 
-    ![1561444076836](pic/1561444076836.png)
+    ![](pic/withdraw.png)
 
 ## 在项目相关仓库中的贡献，仅需要截图
 
@@ -176,15 +177,16 @@
 
   
 
+  
+
 ## 个人博客清单
 
 - [16340215-CentOS升级或安装安装JDK 8](https://blog.janking.cn/post/centos-java8.html)
-
-  - [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
-  - [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
-  - [16340215-使用阿里云邮件推送服务发送验证码](https://blog.janking.cn/post/aliyun-email.html)
-  - [16340215-个人开发者实现实现充值和提现功能](https://blog.janking.cn/post/manual-pay.html)
-  - [16340215-使用NGINX反向代理部署Spring Boot应用](https://blog.janking.cn/post/nginx-springboot.html)
+- [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
+- [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
+- [16340215-使用阿里云邮件推送服务发送验证码](https://blog.janking.cn/post/aliyun-email.html)
+- [16340215-个人开发者实现实现充值和提现功能](https://blog.janking.cn/post/manual-pay.html)
+- [16340215-使用NGINX反向代理部署Spring Boot应用](https://blog.janking.cn/post/nginx-springboot.html)
 
 ## 特别致谢
 
