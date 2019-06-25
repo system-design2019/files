@@ -32,6 +32,28 @@
 
   **Java 1.8.0 + MySQL5.5+ Tomcat(9.0)(内嵌)**
 
+### 逻辑视图
+
+### 物理视图
+
+![](./pic/Physical-view.png)
+
+### 开发视图
+
+![](./pic/Development-View.png)
+
+### 处理视图
+
+//后端画一下，不用太正规
+
+## 模块划分
+
+### 前端
+
+
+
+### 后端
+
 #### 工程结构
 
 ```
@@ -137,26 +159,6 @@
             mail_register_template.html
             mail_withdraw_confirm.html
 ```
-
-
-
-### 逻辑视图
-
-### 物理视图
-
-![](./pic/Physical-view.png)
-
-### 开发视图
-
-![](./pic/Development-View.png)
-
-### 处理视图
-
-//后端画一下，不用太正规
-
-## 模块划分
-
-//后端写一下
 
 ## 重难点
 
