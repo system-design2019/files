@@ -40,15 +40,15 @@ MySQL
 
 连接数据库
 
-![](./pic/liansjk.png)
+![](./../pic/liansjk.png)
 
 指定映射的xml
 
-![](./pic/zhidxml.png)
+![](./../pic/zhidxml.png)
 
 解析实体类的名字
 
-![](./pic/mybatis.png)
+![](./../pic/mybatis.png)
 
 ##### 设计过程
 
@@ -56,7 +56,7 @@ MySQL
 
 使用MySQL，根据前端的要求设计相关数据库
 
-![](./pic/ideasjk.png)
+![](./../pic/ideasjk.png)
 
 2.根据数据库写相关实体类
 
@@ -64,39 +64,39 @@ MySQL
 
 get和set方法在xml文件中可以操作类的成员变量
 
-![](./pic/shiti.png)
+![](./../pic/shiti.png)
 
 4.设计接口类
 
-![](./pic/jiekou.png)
+![](./../pic/jiekou.png)
 
 5.创建xml文件，实现和数据库的交互
 
-![](./pic/xml.png)
+![](./../pic/xml.png)
 
 3.实现Controller并设计restful api
 
-![](./pic/contro.png)
+![](./../pic/contro.png)
 
 ##### API设计
 
 这是我在本地的postman，这里记录了我所有的api
 
-![](./pic/bdpostman.png)
+![](./../pic/bdpostman.png)
 
 问卷APIs
 
-![](./pic/wenj.png)
+![](./../pic/wenj.png)
 
 跑腿APIs
 
-![](./pic/ptui.png)
+![](./../pic/ptui.png)
 
 ##### 数据库设计
 
 EER图
 
-![](./pic/sjk2.png)
+![](./../pic/sjk2.png)
 
 ##### 结语
 
