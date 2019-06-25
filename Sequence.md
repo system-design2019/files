@@ -68,12 +68,12 @@
 
 #### 用户登录
 
-![log sd](E:/FILE_myself/Learning/juniorsecond/system_design/files/pic/logSD.png)
+![log sd](./pic/logSD.png)
 
 #### 用户注册
 
-![reg](E:/FILE_myself/Learning/juniorsecond/system_design/files/pic/regSD.png)
+![reg](./pic/regSD.png)
 
 #### 修改信息
 
-![change SD](E:/FILE_myself/Learning/juniorsecond/system_design/files/pic/changeSD.png)
+![change SD](./pic/changeSD.png)
