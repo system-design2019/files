@@ -17,7 +17,7 @@
 
 
 #### 物理视图
-
+![](./pic/Physical-view.png)
 
 #### 开发视图
 ![](./pic/Development-View.png)
