@@ -83,6 +83,8 @@
 
 ### 逻辑视图
 
+![](./pic/Logical-View.png)
+
 ### 物理视图
 
 ![](./pic/Physical-view.png)
@@ -93,7 +95,7 @@
 
 ### 处理视图
 
-//后端画一下，不用太正规
+![](./pic/Processing-Views.png)
 
 ## 模块划分
 
