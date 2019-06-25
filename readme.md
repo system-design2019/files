@@ -13,3 +13,5 @@
 [会议记录](https://system-design2019.github.io/files/Meeting_record)
 
 [数据库信息](https://system-design2019.github.io/files/Database)
+
+[数据库设计](https://github.com/system-design2019/files/blob/gh-pages/Databse_design.md)
