@@ -206,3 +206,19 @@
             mail_register_template.html	//注册邮件模板
             mail_withdraw_confirm.html	//提现通知管理员邮件模板
 ```
+
+## 软件设计技术
+
+### 前端
+
+### 后端
+
+#### 面向对象编程
+
+
+
+#### 设计模式
+
+- 单例模式
+
+  
