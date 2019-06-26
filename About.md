@@ -40,6 +40,6 @@ T.I.M主要支持用户任务的发布与接收行为，其中，任务类型主
 
 个人页面设计
 
-![questionnaire](./pic/personal.png)
+![questionnaire](./pic/data.png)
 
 详见[UI设计]()
