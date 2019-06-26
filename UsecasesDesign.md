@@ -1,7 +1,5 @@
 ## BCE用例设计
 
-### 基本用例
-
 #### 信息管理
 
 （1）[注册](https://system-design2019.github.io/files/uml/design1-1)：用户使用邮箱或手机号进行注册，同时需要填写验证码
@@ -26,29 +24,25 @@
 
 #### 信息管理
 
-（1）[验证码](https://system-design2019.github.io/files/uml/design2-1)：用户在登录和注册时均需要填写验证码进行人机验证
+（1）[验证码](https://system-design2019.github.io/files/uml/usecase2-1)：用户在登录和注册时均需要填写验证码进行人机验证
 
-（2）[修改密码](https://system-design2019.github.io/files/uml/design2-2)：用户通过原始密码验证后进行新密码的修改
+（2）[修改密码](https://system-design2019.github.io/files/uml/usecase2-2)：用户通过原始密码验证后进行新密码的修改
 
 #### 任务发布/接受
 
-（1）[支付押金](https://system-design2019.github.io/files/uml/design2-3)：用户在发布问卷、发布跑腿、参与跑腿时均需要支付押金
+（1）[支付押金](https://system-design2019.github.io/files/uml/usecase2-3)：用户在发布问卷、发布跑腿、参与跑腿时均需要支付押金
 
-（2）[编辑问卷题目内容](https://system-design2019.github.io/files/uml/design2-4)：用户可以发布包含选择题、填空题两种题型的问卷，并对题目属性做出设定
+（2）[编辑问卷题目内容](https://system-design2019.github.io/files/uml/usecase2-4)：用户可以发布包含选择题、填空题两种题型的问卷，并对题目属性做出设定
 
-（3）[关闭任务](https://system-design2019.github.io/files/uml/design2-5)：关闭任务包含任务结束后的收益结算
+（3）[关闭任务](https://system-design2019.github.io/files/uml/usecase2-5)：关闭任务包含任务结束后的收益结算
 
-（4）[查看参与情况](https://system-design2019.github.io/files/uml/design2-6)：问卷发布者可以查看问卷填写列表以及答案，跑腿发布者可以查看跑腿参与者
+（4）[查看参与情况](https://system-design2019.github.io/files/uml/usecase2-6)：问卷发布者可以查看问卷填写列表以及答案，跑腿发布者可以查看跑腿参与者
 
 #### 收益相关
 
-（1）[虚拟币](https://system-design2019.github.io/files/uml/design2-7)：M币为平台发布任务使用的虚拟代币，1元/枚，支持用户的充值与提现
+（1）[虚拟币](https://system-design2019.github.io/files/uml/usecase2-7)：M币为平台发布任务使用的虚拟代币，1元/枚，支持用户的充值与提现
 
 #### 其他
 
-（1）[通知系统](https://system-design2019.github.io/files/uml/design2-8)：支持用户接受通知、发送通知、删除通知、以及标为已读/未读等操作
-
-
-
-
+（1）[通知系统](https://system-design2019.github.io/files/uml/usecase2-8)：支持用户接受通知、发送通知、删除通知、以及标为已读/未读等操作
 
