@@ -263,13 +263,13 @@ Java语言本身较为特殊，虽然需要编译，但是没有直接编译成�
 │              │      WebConfig.java
 │              │      
 │              ├─controller	//api路由
-│              │      Controller.java
-│              │      ErrandsController.java
-│              │      MoneyController.java
-│              │      NotificationController.java
-│              │      QuestionnaireController.java
-│              │      UserController.java
-│              │      VerifyCodeController.java
+│              │      Controller.java     //全局API
+│              │      ErrandsController.java    //跑腿API
+│              │      MoneyController.java      //交易与余额API
+│              │      NotificationController.java     //通知API
+│              │      QuestionnaireController.java    //问卷API
+│              │      UserController.java     //用户API
+│              │      VerifyCodeController.java   //验证码API
 │              │      
 │              ├─Exception	//自定义异常
 │              │      GlobalExceptionHandler.java
