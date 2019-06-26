@@ -4,7 +4,23 @@
 
 ### 跨平台性
 
-//前端来写
+#### vue跨平台性
+
+目前前端框架纷繁复杂，针对跨平台性对比，我们可以参见下图
+
+![](./pic/vue.jpeg)
+
+（源自网络）
+
+我们可以发现，对于跨平台需求，uni-app具有最优越的性质，其次则是taro和mpvue，而uni-app和mpvue均为基于vue开发的前端框架，所以使用vue项目进行前端开发时，进行项目迁移是较为简单的。
+
+#### js跨平台性
+
+JavaScript一种直译式脚本语言，是一种动态类型、弱类型、基于原型的语言，内置支持类型。它的解释器被称为JavaScript引擎，为浏览器的一部分，广泛用于客户端的脚本语言，最早是在HTML（标准通用标记语言下的一个应用）网页上使用，用来给HTML网页增加动态功能。在1995年时，由Netscape公司的BrendanEich，在网景导航者浏览器上首次设计实现而成。因为Netscape与Sun合作，Netscape管理层希望它外观看起来像Java，因此取名为JavaScript。但实际上它的语法风格与Self及Scheme较为接近。为了取得技术优势，微软推出了JScript，CEnvi推出ScriptEase，与JavaScript同样可在浏览器上运行。为了统一规格，因为JavaScript兼容于ECMA标准，因此也称为ECMAScript。
+
+#### java跨平台性
+
+Java语言本身较为特殊，虽然需要编译，但是没有直接编译成机器语言，而是编译成为.class的字节码文件。然后通过Jvm的解释器进行解释执行。在Windows系统上运行，则通Windows上的Jvm进行解释，而在Linux系统上，则通过Linux上的Jvm解释执行。所以Java跨平台,需要保证有相匹配的Jvm，如果没有，则不能进行跨平台。
 
 ### 技术选型理由
 
@@ -55,6 +71,14 @@
 
 ### 前端架构设计
 
+- 技术栈
+
+  **vue 2.9.6 + vuex 2.0.0 + axios + iview**
+
+- 开发环境
+
+  **nodejs 8.12.0 + vue-cli  2.9.6**
+
 ### 后端架构设计
 
 - 技术栈
@@ -101,7 +125,93 @@
 
 ### 前端
 
-
+```
+├─src
+   ├─api
+   │  │  user.js // 用户权限api
+   │  │  system.js // 系统使用api
+   │  │  question.js // 问卷模块api
+   │  │  personal.js // 个人中心api
+   │  │  errands.js // 跑腿模块api
+   ├─common
+   ├─config
+   ├─images
+   │  ├─personal
+   │  ├─questionaire
+   │  ├─redNav
+   │  ├─run
+   │  └─whiteNav
+   ├─libs
+   ├─router
+   │  │  router.js // 项目路由全局设置
+   ├─store
+   │  ├─home
+   │  	 |		action.js // store->dispatch
+   │  	 |		index.js // store->state 首页数据
+   │  	 |		getter.js
+   │  	 |		mutations.js // store->commit
+   │  ├─personal
+   │  	 |		action.js // store->dispatch
+   │  	 |		index.js // store->state 个人信息数据
+   │  	 |		getter.js
+   │  	 |		mutations.js // store->commit
+   │  ├─questionnaire
+   │  │  ├─check
+   │  	 |    |		check.js // 查看问卷参与情况缓存
+   │  │  └─fill
+   │  	 |    |		fill.js // 填写问卷缓存
+   │  	 |		action.js // store->dispatch
+   │  	 |		index.js // store->state 问卷数据
+   │  	 |		getter.js
+   │  	 |		mutations.js // store->commit
+   │  └─runFavor
+   │  	 |		action.js // store->dispatch
+   │  	 |		index.js // store->state 跑腿数据
+   │  	 |		getter.js
+   │  	 |		mutations.js // store->commit
+   │  |		action.js // store->dispatch
+   │  |		index.js // store->state 系统设置 
+   │  |		getter.js
+   │  |		mutations.js // store->commit
+   ├─styles
+   ├─template
+   ├─util
+   └─views
+      ├─components // 组件
+      |	|	Detail.vue
+      |	|	IdentifyFromAPI.vue
+      |	|	IdentifyFromLocal.vue
+      |	|	Run.vue
+      |	|	RunDetail.vue
+      |	|	Task.vue
+      ├─createFavor // 创建跑腿系列页面
+      |	|	Pay.vue
+      |	|	SetFavor.vue
+      |	|	Success.vue
+      ├─createQues // 创建问卷系列页面
+      |	|	EditQues.vue
+      |	|	Pay.vue
+      |	|	SetQues.vue
+      |	|	Success.vue
+      ├─navs
+      └─Personal
+      |		Sign.vue // 注册登录
+      |		RunFavor.vue // 跑腿主界面
+      |		ReceiveBox.ve // 通知主界面
+      |		Questionnaire.vue // 问卷主界面
+      |		Publish.vue // 我的发布
+      |		Personal.vue // 账户信息界面
+      |		Main.vue // nav导航
+      |		Jump.vue // 着陆页
+      |		Home.vue // 首页主界面
+      |		FillingQues.vue // 填写问卷页面
+      |		CreateQues.vue // 创建问卷导航页
+      |		CraeteFavor.vue // 创建跑腿导航页
+      |		Collect.vue // 我的收藏
+      |		CheckList.vue // 查看参与/填写情况
+      |		Attend.vue // 我参与的
+      |		Account.vue // 余额查询界面
+```
 
 ### 后端
 
