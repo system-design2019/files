@@ -169,14 +169,18 @@
 
 ## 在项目相关仓库中的贡献，仅需要截图
 
-- 项目代码（https://github.com/system-design2019/system-design）
+- 项目代码(后端)（https://github.com/system-design2019/system-design）
 
-  ![1561442350166](pic/1561442350166.png)
+  ![1561557419792](pic/1561557419792.png)
 
 - 项目文档（https://github.com/system-design2019/files）
 
-  
+  ![1561558001004](pic/1561558001004.png)
 
+- 代码规范（https://github.com/system-design2019/java-code-standard）
+  
+  ![1561558063186](pic/1561558063186.png)
+  
   
 
 ## 个人博客清单
@@ -190,5 +194,15 @@
 
 ## 特别致谢
 
-- 致谢帮助过你的同学，学会夸人总是好事！
+感谢产品组（@SongXiaotong、@Wjnowen、@Sunheming123）：产品大佬们对整个项目进行了合理的规划，按照进度组织了很多场会议、完成了无数文档的撰写，使得项目能按照合理的时间进度推进
+
+感谢设计师（@moko-momo)：设计师大佬提供的原型让我们的项目能有拿得出手的界面和动画效果，通过不断地否定我乡村爱情风的设计来拯救我的审美无能、提升了我的审美水平
+
+感谢人前端组 (@SongXiaotong、@yezo13)
+
+感谢后台伙伴（@wushangjing）：
+
+ [images (1).jfif](C:\Users\Janking\Desktop\images (1).jfif) ![Z9Wv1s](pic/Z9Wv1s.jpg) [images.jfif](C:\Users\Janking\Desktop\images.jfif) 
+
+<center><br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZ2cBfti0e55A8QSBggaqtc-w6QNnBVxpB8NhO6xZoDdupdo2fQ" alt=""> <img src="https://s2.ax1x.com/2019/06/22/Z9Wv1s.jpg" alt="Z9Wv1s.jpg"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1q4TG2njO9LoEyGI9aFL-YBUgFrv1IBg__wRGrOu3JTql_Bm-" alt=""><br></center>
 
