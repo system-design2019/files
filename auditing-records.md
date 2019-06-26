@@ -19,7 +19,7 @@
 | -------- | ------------ | ------------ | ----------------------------------------------- |
 | 16340192 | songxiaotong | 设计审计（溜 | [https://github.com/TimeForCoin/Client/issues/25](https://github.com/TimeForCoin/Client/issues/25) |
 | 16340214 | wjnowen      | 设计审计（wjn） | [https://github.com/Walikrence/swsad-project/issues/10](https://github.com/Walikrence/swsad-project/issues/10) |
-|          |              |              |                                                 |
+| 16340197 | sunheming123 | 设计审计（hm)   | [https://github.com/Walikrence/swsad-project/issues/12](https://github.com/Walikrence/swsad-project/issues/12) |                                                |
 |          |              |              |                                                 |
 |          |              |              |                                                 |
 |          |              |              |                                                 |
