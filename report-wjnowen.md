@@ -52,7 +52,7 @@ postmortem & process improvement plan | 每次迭代结束后写总结文档，�
 
 ## 个人GIT总结
 
-![](./pic/contribution.png)
+![](./pic/contribution-wjn.png)
 
 ## 工作清单
 #### 产品设计
