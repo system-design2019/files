@@ -76,4 +76,4 @@ T.I.M主要支持用户任务的发布与接收行为，其中，任务类型主
 
 ![questionnaire](./pic/personal.png)
 
-详见[UI设计](https://github.com/system-design2019/files/UI_design)
+详见[UI设计](https://system-design2019.github.io/files/UI_design)
