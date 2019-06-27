@@ -47,7 +47,14 @@ postmortem & process improvement plan | 每次迭代结束后写总结文档，�
 
 ## 个人GIT总结
 
-![](./../pic/contribution-wjn.png)
+### system-design仓库
+
+![](./../pic/contribution-wjn-system.png)
+
+### files仓库
+
+![](./../pic/contribution-wjn-files.png)
+
 
 ## 工作清单
 #### 产品设计
@@ -129,5 +136,9 @@ postmortem & process improvement plan | 每次迭代结束后写总结文档，�
 ## 个人博客
 
 [16340214-如何编写测试文档](https://blog.csdn.net/wjnowen/article/details/93796067)
+
+[16340214-项目前期调研及其文档编写](https://blog.csdn.net/wjnowen/article/details/93890379)
+
+
 
 
