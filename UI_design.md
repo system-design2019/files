@@ -32,9 +32,9 @@
 
 
 
-<img src="./pic/logoRed.PNG" style="width:20%;"/>
+<img src="./pic/logoRed.png" style="width:20%;"/>
 
-<img src="./pic/logonamered.PNG" style="width:40%;"/>
+<img src="./pic/logonamered.png" style="width:40%;"/>
 
 使用主题色#ce4545，结合产品名“Time Is Money”，将代表时间的钟与代表金钱的￥结合在一起，￥即为钟表的表针，意为时间即是金钱，即Time Is Money。
 
@@ -82,7 +82,7 @@
 
 ### 3.4 问卷页面
 
-<img src="./pic/ques.PNG" style="width:100%;"/>
+<img src="./pic/ques.png" style="width:100%;"/>
 
 
 
@@ -100,7 +100,7 @@
 
 ### 3.6 跑腿界面
 
-<img src="./pic/run.PNG" style="width:100%;"/>
+<img src="./pic/run.png" style="width:100%;"/>
 
 - 顶部使用了主题色红色，反映了跑腿的活力状态。渐变色、圆角按钮与字体设计均与问卷界面相似，并与其相反，图片切合主题。
 - 底部为跑腿列表界面，设计成了与问卷界面不同的方格式列表，且头部的图片可以根据需求进行更换。
