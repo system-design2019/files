@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>270</x>
+      <y>0</y>
+      <w>330</w>
+      <h>750</h>
+    </coordinates>
+    <panel_attributes>type=Package
+注册
+	viewModel
+		余额
+		题目
+		参数
+	view
+		开始发布按钮
+		题目编辑页面
+			记录题目按钮
+	参数设置页面	
+			记录参数按钮
+		确认支付页面
+			确认发布按钮
+	controller
+		记录题目
+		记录参数
+		发布
+
+service
+	发布问卷
+
+repository
+	用户信息
+	问卷信息</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

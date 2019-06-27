@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 theme: jekyll-theme-slate
 title: TimeIsMoney挣闲钱
 description: 校园服务系统
+=======
+theme: jekyll-theme-architect
+title: TimeIsMoney挣闲钱
+description: 项目文档
+>>>>>>> origin/gh-pages

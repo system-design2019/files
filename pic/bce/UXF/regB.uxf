@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>310</x>
+      <y>150</y>
+      <w>330</w>
+      <h>540</h>
+    </coordinates>
+    <panel_attributes>type=Package
+注册
+	viewModel
+		信息
+		验证码
+	view
+		信息输入
+		验证码输入
+		验证码按钮
+		注册按钮
+	controller
+		注册
+		验证
+
+service
+	注册
+
+repository
+	用户信息</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
