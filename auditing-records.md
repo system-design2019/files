@@ -8,7 +8,7 @@
 | 16340197 | sunheming123 | 需求审计（hm)  |  [https://github.com/Walikrence/swsad-project/issues/11](https://github.com/Walikrence/swsad-project/issues/11) |
 | 16340277  |    yezo13          |   需求审计（yezo）  | [https://github.com/fitnote/FitRear/issues/1](https://github.com/fitnote/FitRear/issues/1)                                               |
 | 15331419  |    wushangjing          |     需求审计         |            [https://github.com/TimeForCoin/Server/issues/7](https://github.com/TimeForCoin/Server/issues/7)                                    |
-|          |              |              |                                                |
+|  16340215        |      JankingWon        |   需求审计           |  [https://github.com/TimeForCoin/Server/issues/8]                                              |
 |          |              |              |                                                |
 
 
