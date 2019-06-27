@@ -32,7 +32,7 @@ postmortem & process improvement plan | 每次迭代结束后写总结文档，�
 
 ## 个人GIT总结
 
-contribution(sunheming123)
+![](./../pic/contribution-sunheming123)
 
 ## 个人博客清单
 
