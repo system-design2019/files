@@ -21,7 +21,7 @@
 | 16340214 | wjnowen      | 设计审计（wjn） | [https://github.com/Walikrence/swsad-project/issues/10](https://github.com/Walikrence/swsad-project/issues/10) |
 | 16340197 | sunheming123 | 设计审计（hm)   | [https://github.com/Walikrence/swsad-project/issues/12](https://github.com/Walikrence/swsad-project/issues/12) |                                                |
 | 16340277  |    yezo13          |   设计审计（yezo）  | [https://github.com/fitnote/FitRear/issues/2](https://github.com/fitnote/FitRear/issues/2)                                                |
-|          |              |              |                                                 |
+|    15331419 |   wushangjing           |      设计审计        |            [https://github.com/TimeForCoin/Client/issues/37](https://github.com/TimeForCoin/Client/issues/37)                                     |
 |          |              |              |                                                 |
 |          |              |              |                                                 |
 
