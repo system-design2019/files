@@ -9,7 +9,7 @@
 | 16340277  |    yezo13          |   需求审计（yezo）  | [https://github.com/fitnote/FitRear/issues/1](https://github.com/fitnote/FitRear/issues/1)                                               |
 | 15331419  |    wushangjing          |     需求审计         |            [https://github.com/TimeForCoin/Server/issues/7](https://github.com/TimeForCoin/Server/issues/7)                                    |
 |  16340215        |      JankingWon        |   需求审计           |  [https://github.com/TimeForCoin/Dashboard/issues/2](https://github.com/TimeForCoin/Dashboard/issues/2)                                             |
-|          |              |              |                                                |
+|  16340188        |   momo-moko           |  需求审计            |   [https://github.com/TimeForCoin/Dashboard/issues/3](https://github.com/TimeForCoin/Dashboard/issues/3)                                           |
 
 
 
@@ -23,5 +23,5 @@
 | 16340277  |    yezo13          |   设计审计（yezo）  | [https://github.com/fitnote/FitRear/issues/2](https://github.com/fitnote/FitRear/issues/2)                                                |
 |    15331419 |   wushangjing           |      设计审计        |            [https://github.com/TimeForCoin/Client/issues/37](https://github.com/TimeForCoin/Client/issues/37)                                     |
 |   16340215       |     JankingWon         |    设计审计          |         [https://github.com/TimeForCoin/Server/issues/8](https://github.com/TimeForCoin/Server/issues/8)                                        |
-|          |              |              |                                                 |
+|  16340188        |    momo-moko          |   设计审计           |     [https://github.com/TimeForCoin/Client/issues/41](https://github.com/TimeForCoin/Client/issues/41)       |
 
