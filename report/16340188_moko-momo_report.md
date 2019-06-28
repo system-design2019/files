@@ -59,9 +59,9 @@
 - ![attr1](../pic/attr1.PNG)
 
 ## 个人博客清单
+[[前端]UI设计的灵感技巧](https://blog.csdn.net/mozi_momo/article/details/94003393)
 
-
-
+[css排版小结](https://blog.csdn.net/mozi_momo/article/details/94002483)
 ## 特别致谢
 
 - 感谢组里的产品大佬们，产品从需求到设计到文档等等都负责了非常多辛苦的任务，作为与产品对接的UI，没有产品大佬们的需求设计UI是做不下去的
